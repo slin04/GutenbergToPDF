@@ -8,6 +8,7 @@ How to use:
 - Click "Read online (web)" and copy the link
 
 ### Install
+- Install pandoc: https://pandoc.org/installing.html
 - Make python virtual environment: `python -m venv venv`
 - Activate virtual environment `.\venv\Scripts\activate` (may vary depending on your operating system)
 - Install requirements: `pip install -r requirements.txt`
